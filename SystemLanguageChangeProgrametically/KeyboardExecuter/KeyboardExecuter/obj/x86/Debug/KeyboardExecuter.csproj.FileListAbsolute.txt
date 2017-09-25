@@ -1,0 +1,6 @@
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\bin\Debug\KeyboardExecuter.exe
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\bin\Debug\KeyboardExecuter.pdb
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\x86\Debug\KeyboardExecuter.Properties.Resources.resources
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\x86\Debug\KeyboardExecuter.csproj.GenerateResource.Cache
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\x86\Debug\KeyboardExecuter.exe
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\x86\Debug\KeyboardExecuter.pdb

@@ -1,0 +1,15 @@
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\bin\Debug\KeyboardExecuter.exe
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\bin\Debug\KeyboardExecuter.pdb
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.Properties.Resources.resources
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.csproj.GenerateResource.Cache
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.exe
+C:\code\beatsbydre_colors\src\trunk\photobooth\prototypes\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.pdb
+C:\Users\Acer\Downloads\Compressed\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.exe
+C:\Users\Acer\Downloads\Compressed\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.pdb
+C:\Users\Acer\Downloads\Compressed\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\bin\Debug\KeyboardExecuter.exe
+C:\Users\Acer\Downloads\Compressed\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\bin\Debug\KeyboardExecuter.pdb
+C:\Users\Acer\Downloads\Compressed\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\Compressed\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.Properties.Resources.resources
+C:\Users\Acer\Downloads\Compressed\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.csproj.GenerateResource.Cache
+D:\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.exe
+D:\WPF_OSKManagement-master\KeyboardExecuter\KeyboardExecuter\obj\Debug\KeyboardExecuter.pdb
