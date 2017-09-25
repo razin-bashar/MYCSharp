@@ -1,0 +1,7 @@
+F:\Important\SampleCode\Sample Code\bin\Debug\Resolution.exe
+F:\Important\SampleCode\Sample Code\bin\Debug\Resolution.pdb
+F:\Important\SampleCode\Sample Code\obj\Debug\Resolution.csprojResolveAssemblyReference.cache
+F:\Important\SampleCode\Sample Code\obj\Debug\Resolution.Form1.resources
+F:\Important\SampleCode\Sample Code\obj\Debug\Resolution.csproj.GenerateResource.Cache
+F:\Important\SampleCode\Sample Code\obj\Debug\Resolution.exe
+F:\Important\SampleCode\Sample Code\obj\Debug\Resolution.pdb
